@@ -1,5 +1,5 @@
 # convert
-Convertisseur de nombre en français
+Convertisseur de nombres en français
 
 Statut: Expérimental
 Orthographe: Nouvelle orthographe
